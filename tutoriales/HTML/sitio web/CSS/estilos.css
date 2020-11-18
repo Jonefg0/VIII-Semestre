@@ -1,0 +1,86 @@
+/* Jonathan Gonzalez*/
+/*body {
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20190828/pngtree-water-bubbles-background-designe-image_305402.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:#fff;
+    margin: 0;
+
+}*/
+body{
+    background: white;
+}
+h2,h3 {
+   color:red;
+   font-size: 30px;
+   font-family: Verdana;
+}
+h1{
+    font-size: 50px;
+    color: green;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 10px 2px 50px;
+    text-shadow: tomato;
+}
+a{
+    color: black;
+    font-size: 20px;
+    padding: 10px 20px;
+    display: inline-block;
+    background: wheat;
+    box-shadow: teal 0px 4px 2px;
+}
+a:active{
+    background: rgb(238, 130, 130);
+    box-shadow: none;
+}
+a:link{
+    color: teal;
+}
+a:visited{
+    text-decoration: transparent;
+}
+a:hover{
+    color: turquoise;
+    font-size: 25px;
+    background: thistle;
+    box-shadow: teal 0px 1px 1px; ;
+}
+p a{
+    color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+p{
+    text-decoration: none;
+
+}
+p .enla{
+    color:green;
+}
+
+div{
+    color: indianred;
+    width:300px;
+    height:wrap;
+    margin:20px 50px;
+    background: khaki;
+    padding: 30px;
+    border:2px solid red;
+    float: left;
+}
+
+
+
+aside{
+    
+}
+header{
+    /*background:url(../imagenes/modeli.PNG);*/
+    background-repeat:no-repeat;
+}
+nav{
+    float: left;
+}
