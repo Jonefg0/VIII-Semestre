@@ -7,6 +7,16 @@
     margin: 0;
 
 }*/
+img{
+    width: 40%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+    box-shadow: black 4px 4px 4px;
+    padding: 2px;
+    border: 1px solid black;
+    }
+
 body{
     background: white;
 }
@@ -84,3 +94,97 @@ header{
 nav{
     float: left;
 }
+
+/* ######################LISTAS###########################*/
+ul{
+    list-style-type:circle;
+    list-style-position: inside;
+
+}
+ol{
+    /*list-style-type:decimal-leading-zero*/
+    list-style-type: lower-greek;
+    
+
+}
+
+.menu{
+    width: 100%;
+    background: #cccccc;
+    margin: 0px;
+    padding: 0px;
+}
+.menu li{
+    display:inline-block;
+
+}
+.menu li a{
+    padding: 10px 20px;
+    display:inline-block;
+    color: white;
+}
+.menu li :hover{
+    background: red;
+    padding-left: 20px;
+}
+/* ######################TABLAS###########################*/
+
+table{
+    /*border: 1px solid black;*/
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid black;
+    padding:20px;
+    /*width*/
+}
+table tr:hover{
+    background: brown;
+
+}
+table td:hover{
+    background: red;
+}
+
+/* ######################FORMULARIO###########################*/
+form{
+    width: 25%;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+label{
+    font-size: 12px;
+    display: block;
+    width: 100%;
+}
+input,textarea{
+    padding:10px;
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-color: black;
+    font-size: 12px;
+}
+textarea{
+    resize: vertical;
+    max-height: 200px;
+    border-color: black;
+}
+input:focus,textarea:focus{
+    border:4px blue;
+}
+
+input[type="submit"]{
+    margin-bottom: 0px;
+    background: blue;
+    color: white;
+    border: none;
+}
+
+input[type="submit"]:hover{
+    background: blueviolet;
+    cursor: pointer;
+}
+

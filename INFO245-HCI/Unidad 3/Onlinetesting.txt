@@ -1,0 +1,75 @@
+Online Experiments, testing online:
+-Para sitio web con trafico
+-Distintas interfaces se muestran en momentos distintos
+para estudiar cómo los usuarios interactúan con estas.
+
+A/B testing
+
+-Se comparan 2 versiones, control y de prueba
+-Se posee una hipotesis de marketing
+Estudiar hipotesis, cual versión cumple mejor la hipotesis.
+Visitante a cliente, cliente a comprador.-
+Conversiones de usuarios:
+Cambios de interfaces guian a la gente de distinta maneras.
+Incluso el cambio de una palabra produce incremento enormes.
+"Trigger word"
+
+CTA: Call to Action
+Arriba o de primera vista no siempre es mejor, depende de varios factores.
+Linea de texto que invita al usuario a hacer una acción, adaptar a objetivos y entorno del CTA.
+
+
+Color: El color de un botón genera cambios.
+
+¿Que cosas podemos testear en nuestros sitios web?
+-Titular, Headline:
+Que testear?:Largo vs corto;Positivo vs negativo;Benficio vs Servicio o funcionalidad; Simple vs Multipleline,Comodidad visual y atractivo
+
+-Imagene:Las caras humanas incrementan taza de conversión,a la gente le gusta tratar con gente,Dirigir cara a el CTA, 
+Que testear?:b/n o color,Gente vs producto, una o varias, masc o fem.
+
+-Video:
+Que testear?: Autoplay or press, cuando desplegar el cta, Largo, video vs imagen, número de videos, Lo-fi vs Hi-fi, production cost,bandwith, quien es el portavoz
+
+-Texto:Lo más corto posible, frases cortas, leerlo en voz alta y ver cómo suena.
+Que testear?:
+-CTA:Call to action;Que es lo que queremos que haga el visitante, simple y descriptivo, "i want to...", el texto es super importante
+Que testear?
+
+-Forms:Pedir info usuario, genera más fricción, nadie quiere rellenar forumulario por lo tanto el premio debe ser inversamente proporcional.
+Capturar correos, dar premios por formularios, obligatoria o no,CTA sentido con Forms
+Que testear?:No pedir todos los datos de inmediato
+
+-Colors;Existe una asosiacion cultural de los colores,colores para ocasiones
+Que testear?:
+
+-social proof:Estamos programados para repetir, que vea que otros ya lo hicieron
+Que testear?:testiminios,historias, historial de trabajos.likes RRSS
+-post-conversion page:
+Que testear?:pagina para generar más clientes por contagio.
+
+-General Layout:
+Que testear?: Organizacion gráfica depende de la cultura,
+
+QUE NO TESTEAR?
+Menores cambios, ej:Conectores
+cAMBIOS OBVIOS
+
+A QUIEN TESTEAR?
+Definir  publico target,el trafico debe dividirse en 2 versiones
+50/50: Ir enviando poquito a 50/50 de trafico de personas.
+
+REGLAS RANDOMIZAR USUARIOS:
+tener Consistenncia: Enviar siempre a la misma persona a la misma version.
+Durabilidad: El nuevo usuario debe acostumbrarse a la nueva interfaz
+Independencia:Utilizar grupos variados, un poco de todo.
+
+CUANDO TESTEAR?
+Hasta tener significancia estadistica.
+
+Si la variacion  no es significativa ,entonces el experimento falló.
+
+Analisis de conversión del usuario, embudo.
+
+
+
